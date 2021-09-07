@@ -6,7 +6,7 @@ a very simple but useful(maybe) tool for tryhackme users.
 easyly download/clone (akrech.sh) file by --- git clone https://github.com/a-k-r-e-c-h/akrech-rev-shell
 $ cd akrech-rev-shell
 $ chmod +x akrech.sh
-& bash akrech.sh
+& ./akrech.sh
 
 #use "nano akrech.sh"if you want's to change the exploit or the IP/network interface.
 
