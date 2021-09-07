@@ -1,5 +1,5 @@
 # akrech-rev-shell
-It's the first tool that i had made with bash scripting.
+It's the first tool that I had made with bash scripting.
 a very simple but useful(maybe) tool for tryhackme users.
 
 #PROCESS
