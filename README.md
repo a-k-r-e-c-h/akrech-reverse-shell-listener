@@ -1,4 +1,4 @@
-# akrech-rev-shell
+# akrech-reverse-shell-listener
 
 ██╗░░░██╗██████╗░░██████╗░██████╗░░█████╗░██████╗░███████╗  ██╗░░░██╗░█████╗░██╗░░░██╗██████╗░
 ██║░░░██║██╔══██╗██╔════╝░██╔══██╗██╔══██╗██╔══██╗██╔════╝  ╚██╗░██╔╝██╔══██╗██║░░░██║██╔══██╗
@@ -42,6 +42,8 @@ please read carefully, if you havn't any idea about "how to upgrade a normal rev
 
 It's the first tool that I had made with bash scripting.
 a very simple but useful(maybe) tool for tryhackme users.
+
+#tested on kali-linux
 
 #PROCESS
 git clone https://github.com/a-k-r-e-c-h/akrech-rev-shell
