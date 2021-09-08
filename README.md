@@ -49,9 +49,13 @@ a very simple but useful(maybe) tool for tryhackme users.
 git clone https://github.com/a-k-r-e-c-h/akrech-rev-shell
 $ cd akrech-rev-shell
 $ chmod +x akrech.sh
-$ ./akrech.sh
+$ ./akrech.sh                <-----#use "nano akrech.sh" if you want's to change the exploit or the IP/network interface.
 
-#use "nano akrech.sh" if you want's to change the exploit or the IP/network interface.
+
+[note]
+***move/copy "akrech.sh" to "/bin" to access it from anywhere on your terminal***   <---$ mv akrech.sh /bin --->
+
+
 
 <----after getting a shell successfully--->
 ENTER(1) --- "background"
@@ -119,11 +123,10 @@ meterpreter >
 
 <<<<<<<------------------------------------------------------------------------->>>>>>
 
-#akrech   ---a simple metasploit automated reverse-shell-listener tool written in bash.
-#this tool is made for time saving & day-to-day usage.
-#metasploit has must be installed to ran this script on your machine.
-#found me on tweeter-- https://twitter.com/a_k_r_e_c_H
-#download
+*akrech   ---a simple metasploit automated reverse-shell-listener tool written in bash.
+*this tool is made for time saving & day-to-day usage.
+*metasploit has must be installed to ran this script on your machine.
+*found me on tweeter-- https://twitter.com/a_k_r_e_c_H
 
 #!/bin/bash
 
