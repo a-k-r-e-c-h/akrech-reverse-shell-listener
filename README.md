@@ -125,7 +125,7 @@ echo -e " \e[5m
                        mail- itz.a.k.r.e.c.h@gmail.com
                       "
 
-msfconsole -q -x " use ```exploit/multi/handler```;    <---change this, if you wants to set another exploit--->
+msfconsole -q -x " use ```exploit/multi/handler```;    <---change this, if you wants to set another module--->
   set lhost ```tun0``` ;                               <---change this, if you wants to set another IP/network interface---> 
    set lport ```4444``` ;                              <---change this, if you wants to listen on another port--->
     exploit ;"
